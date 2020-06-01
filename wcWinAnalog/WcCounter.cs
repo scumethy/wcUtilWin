@@ -7,7 +7,7 @@ namespace wcWinAnalog
         public long wcount;
         public long lcount;
         public long bcount;
-
+        
         public void Run(string path)
         {
             wcount = 0; lcount = 0; bcount = 1;
@@ -21,6 +21,7 @@ namespace wcWinAnalog
                     lcount++;
                     line = fs.ReadLine();
                 }
+                bcount += lcount * 2;
             }
         } 
     }
