@@ -23,7 +23,7 @@ namespace wcWinAnalog
                 // 1 case: w/o any flags
                 if (Settings.Flags.Count == 0)
                 {
-                    output += $"{counter.lcount} {counter.wcount} {counter.bcount} {Settings.Paths[0]}\n";
+                    output += $"{counter.lcount} {counter.wcount} {counter.bcount} {Settings.Paths[0]}";
                 }
                 // 2 case: user's set of flags
                 else
