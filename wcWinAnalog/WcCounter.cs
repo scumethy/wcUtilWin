@@ -10,7 +10,7 @@ namespace wcWinAnalog
         
         public void Run(string path)
         {
-            wcount = 0; lcount = 0; bcount = 1;
+            wcount = 0; lcount = 0; bcount = 0;
             using (StreamReader fs = new StreamReader(path))
             {
                 string line = fs.ReadLine();
