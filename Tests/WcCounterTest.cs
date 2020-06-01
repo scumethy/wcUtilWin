@@ -67,10 +67,9 @@ namespace Tests
             // Arrange
             ParsingTarget p = new ParsingTarget();
             p.fLines = true;
-            p.fSymbols = true;
             p.fVolume = false;
-            p.fWords = false;
-            List<String> expectedFlags = new List<string>() {"m", "l"};
+            p.fWords = true;
+            List<String> expectedFlags = new List<string>() {"l", "w"};
             string[] paths = new[] {"firstpath.txt", "secpath.txt"};
             
             //Act

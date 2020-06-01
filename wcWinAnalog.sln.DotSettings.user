@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0d4fd3f8_002De65d_002D4ac3_002D9219_002D9436f34e2a18/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAA5227B-51D7-4AD7-8C48-4C8C6BCB70AD::.NETCoreApp,Version=v3.1::Tests.Tests.TestCounterRunClassic&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAA5227B-51D7-4AD7-8C48-4C8C6BCB70AD::.NETCoreApp,Version=v3.1::Tests.Tests.TestCounterRunNoInput&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAA5227B-51D7-4AD7-8C48-4C8C6BCB70AD::.NETCoreApp,Version=v3.1::Tests.Tests.TestWcSettings&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAA5227B-51D7-4AD7-8C48-4C8C6BCB70AD::.NETCoreApp,Version=v3.1::Tests.Tests.TestWcSettingsConstructor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAA5227B-51D7-4AD7-8C48-4C8C6BCB70AD::.NETCoreApp,Version=v3.1::Tests.Tests.TestWcSettingsConstructorConstraint&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aa077b90_002Dc04e_002D4cd8_002D8e12_002D591ae66c3f78/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCounterRunClassic" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAA5227B-51D7-4AD7-8C48-4C8C6BCB70AD::.NETCoreApp,Version=v3.1::Tests.Tests.TestCounterRunClassic&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAA5227B-51D7-4AD7-8C48-4C8C6BCB70AD::.NETCoreApp,Version=v3.1::Tests.Tests.TestWcSettingsConstructorConstraint&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c98c9b05_002D201d_002D414d_002Da604_002D0f8047bef3fe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestWcSettingsConstructorConstraint" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAA5227B-51D7-4AD7-8C48-4C8C6BCB70AD::.NETCoreApp,Version=v3.1::Tests.Tests.TestWcSettingsConstructorConstraint&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e5afb37a_002Dca8d_002D4dff_002D80c5_002D4eead4021a82/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;BAA5227B-51D7-4AD7-8C48-4C8C6BCB70AD/f:UnitTest1.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

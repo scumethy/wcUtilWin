@@ -20,7 +20,6 @@ namespace wcWinAnalog
             List<String> flags = new List<string>();
 
             if (p.fVolume) flags.Add("c");
-            if (p.fSymbols) flags.Add("m");
             if (p.fLines) flags.Add("l");
             if (p.fWords) flags.Add("w");
 

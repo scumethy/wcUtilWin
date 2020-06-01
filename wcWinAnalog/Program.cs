@@ -12,9 +12,6 @@ namespace wcWinAnalog
 
         [SwitchArgument('c', "bytes", false, Description = "Print the byte counts.")]
         public bool fVolume;
-
-        [SwitchArgument('m', "chars", false, Description = "Print the character counts.")]
-        public bool fSymbols;
     }
 
     class Program
