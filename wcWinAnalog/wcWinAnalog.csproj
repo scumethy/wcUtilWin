@@ -9,4 +9,8 @@
       <PackageReference Include="CommandLineArgumentsParser" Version="3.0.20" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\wcWinAnalog.Tests\wcWinAnalog.Tests.csproj" />
+    </ItemGroup>
+
 </Project>
